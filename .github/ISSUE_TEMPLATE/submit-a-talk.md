@@ -1,6 +1,6 @@
 ---
 name: Submit a talk
-about: Tell us about a talk you'd like to give
+about: Tell us about a talk you'd like to give or your idea
 ---
 
 ## Talk title
